@@ -1,5 +1,5 @@
 # 19xx - M128 - WBSPS - Ward Beck Module - M128 Power Supply.jpg
-Wiki page: [M128](../../../PAGES/M128.md)
+Wiki page: [M128](../../../../PAGES/M128.md)
 
 
 - **Year:** unknown (unknown)
@@ -33,7 +33,7 @@ HAmmond 60? 35700
 
 ```json
 {
- "file": "Modules/POWER/M128/19xx - M128 - WBSPS - Ward Beck Module - M128 Power Supply.jpg",
+ "file": "Modules/POWER/M128/PHOTOS/19xx - M128 - WBSPS - Ward Beck Module - M128 Power Supply.jpg",
  "sha256": "bfa566a01266d2506499afaad505da67a6119bcc251304c5093582996858b03a",
  "kind": "module",
  "models": [

@@ -1,5 +1,5 @@
 # 19xx - M128 - WBSPS - Ward Beck Module - M128 Power Supply 001.jpg
-Wiki page: [M128](../../../PAGES/M128.md)
+Wiki page: [M128](../../../../PAGES/M128.md)
 
 
 - **Year:** unknown (unknown)
@@ -23,7 +23,7 @@ Wiki page: [M128](../../../PAGES/M128.md)
 
 ```json
 {
- "file": "Modules/POWER/M128/19xx - M128 - WBSPS - Ward Beck Module - M128 Power Supply 001.jpg",
+ "file": "Modules/POWER/M128/PHOTOS/19xx - M128 - WBSPS - Ward Beck Module - M128 Power Supply 001.jpg",
  "sha256": "491b1aa1a0b20b58167b6830f7b421cb2e7ff3311fbd544b0dd73cdc4f057b5b",
  "kind": "module",
  "models": [

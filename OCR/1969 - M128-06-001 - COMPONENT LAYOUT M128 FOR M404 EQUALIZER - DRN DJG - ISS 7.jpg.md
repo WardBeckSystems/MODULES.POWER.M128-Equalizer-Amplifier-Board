@@ -1,5 +1,5 @@
 # 1969 - M128-06-001 - COMPONENT LAYOUT M128 FOR M404 EQUALIZER - DRN DJG - ISS 7.jpg
-Wiki page: [M128](../../../PAGES/M128.md)
+Wiki page: [M128](../../../../PAGES/M128.md)
 
 
 - **Year:** 1969 (title block date)
@@ -50,7 +50,7 @@ on 0 m 28 @m
 
 ```json
 {
- "file": "Modules/POWER/M128/1969 - M128-06-001 - COMPONENT LAYOUT M128 FOR M404 EQUALIZER - DRN DJG - ISS 7.jpg",
+ "file": "Modules/POWER/M128/SCHEMATICS/1969 - M128-06-001 - COMPONENT LAYOUT M128 FOR M404 EQUALIZER - DRN DJG - ISS 7.jpg",
  "sha256": "1dd69e64e54f2c07bc3da3c332343e23374f95b5aeccd4bc4323cf69a5ef3fea",
  "kind": "module",
  "models": [

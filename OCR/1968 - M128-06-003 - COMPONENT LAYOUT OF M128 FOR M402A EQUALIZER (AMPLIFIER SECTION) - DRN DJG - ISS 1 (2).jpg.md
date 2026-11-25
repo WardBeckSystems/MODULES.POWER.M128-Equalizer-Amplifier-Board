@@ -1,5 +1,5 @@
 # 1968 - M128-06-003 - COMPONENT LAYOUT OF M128 FOR M402A EQUALIZER (AMPLIFIER SECTION) - DRN DJG - ISS 1 (2).jpg
-Wiki page: [M128](../../../PAGES/M128.md)
+Wiki page: [M128](../../../../PAGES/M128.md)
 
 
 - **Year:** 1968 (title block date)
@@ -48,7 +48,7 @@ m `
 
 ```json
 {
- "file": "Modules/POWER/M128/1968 - M128-06-003 - COMPONENT LAYOUT OF M128 FOR M402A EQUALIZER (AMPLIFIER SECTION) - DRN DJG - ISS 1 (2).jpg",
+ "file": "Modules/POWER/M128/SCHEMATICS/1968 - M128-06-003 - COMPONENT LAYOUT OF M128 FOR M402A EQUALIZER (AMPLIFIER SECTION) - DRN DJG - ISS 1 (2).jpg",
  "sha256": "e94bab98bc069290b092bac2de9fb61ea127d666d71023cdb7be232ccfaeec6a",
  "kind": "module",
  "models": [
