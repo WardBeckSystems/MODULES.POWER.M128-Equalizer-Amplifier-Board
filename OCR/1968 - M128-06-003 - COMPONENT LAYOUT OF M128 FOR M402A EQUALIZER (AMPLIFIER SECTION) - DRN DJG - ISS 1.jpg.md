@@ -22,6 +22,17 @@ Wiki page: [M128](../../../../PAGES/M128.md)
 - **Size:** 4,378,620 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout B M128-06-003, size B (assumed) 432 × 307 mm, 2000 × 1423 px traced (0.216 mm/px), turned 270°
+- **Ink extent:** 15–432 mm across, 32–307 mm up
+- **Outlines:** line 1,091 rings, 7,912 straight (11,282 mm) / 1,764 curved (1,802 mm); text 267 rings, 2,234 straight (2,278 mm) / 636 curved (688 mm)
+- **Circles and arcs:** 2 circles, 0 arcs; largest r 1.4 @ (63.0, 228.7), r 1.3 @ (316.2, 236.5)
+- **Closed boxes:** 15
+- **Dots (junctions):** 3
+
+Every curve, box, word and wire group: [1968 - M128-06-003 - COMPONENT LAYOUT OF M128 FOR M402A EQUALIZER (AMPLIFIER SECTION) - DRN DJG - ISS 1 (traced).json](../SCHEMATICS/1968%20-%20M128-06-003%20-%20COMPONENT%20LAYOUT%20OF%20M128%20FOR%20M402A%20EQUALIZER%20%28AMPLIFIER%20SECTION%29%20-%20DRN%20DJG%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1968 - M128-06-003 - COMPONENT LAYOUT OF M128 FOR M402A EQUALIZER (AMPLIFIER SECTION) - DRN DJG - ISS 1 (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

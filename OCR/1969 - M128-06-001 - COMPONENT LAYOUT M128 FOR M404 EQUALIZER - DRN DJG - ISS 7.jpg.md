@@ -22,6 +22,17 @@ Wiki page: [M128](../../../../PAGES/M128.md)
 - **Size:** 5,026,492 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout B M128 06 001, size B (assumed) 432 × 307 mm, 2000 × 1423 px traced (0.216 mm/px), turned 270°
+- **Ink extent:** 0–432 mm across, 27–307 mm up
+- **Outlines:** line 601 rings, 9,082 straight (12,716 mm) / 2,487 curved (2,530 mm); text 173 rings, 1,834 straight (2,005 mm) / 501 curved (568 mm)
+- **Circles and arcs:** 7 circles, 0 arcs; largest r 10.3 @ (284.1, 239.6), r 9.7 @ (284.2, 217.0), r 8.6 @ (249.8, 232.1), r 8.3 @ (48.4, 224.3)
+- **Closed boxes:** 25
+- **Dots (junctions):** 5
+
+Every curve, box, word and wire group: [1969 - M128-06-001 - COMPONENT LAYOUT M128 FOR M404 EQUALIZER - DRN DJG - ISS 7 (traced).json](../SCHEMATICS/1969%20-%20M128-06-001%20-%20COMPONENT%20LAYOUT%20M128%20FOR%20M404%20EQUALIZER%20-%20DRN%20DJG%20-%20ISS%207%20%28traced%29.json) (the CAD file: `1969 - M128-06-001 - COMPONENT LAYOUT M128 FOR M404 EQUALIZER - DRN DJG - ISS 7 (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)
