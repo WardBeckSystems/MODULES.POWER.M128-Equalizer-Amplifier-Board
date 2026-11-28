@@ -1,5 +1,5 @@
 # 19xx - M128 - WBSPS - Ward Beck Module - M128 Power Supply 001.jpg
-Wiki page: [M128](../../../../PAGES/M128.md)
+Wiki page: [M128](../)
 
 
 - **Year:** unknown (unknown)

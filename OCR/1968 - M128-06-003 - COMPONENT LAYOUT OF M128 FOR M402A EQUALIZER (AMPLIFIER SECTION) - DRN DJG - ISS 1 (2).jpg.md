@@ -1,5 +1,5 @@
 # 1968 - M128-06-003 - COMPONENT LAYOUT OF M128 FOR M402A EQUALIZER (AMPLIFIER SECTION) - DRN DJG - ISS 1 (2).jpg
-Wiki page: [M128](../../../../PAGES/M128.md)
+Wiki page: [M128](../)
 
 
 - **Year:** 1968 (title block date)
